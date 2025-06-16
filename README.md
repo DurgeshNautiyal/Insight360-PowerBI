@@ -1,7 +1,6 @@
 # Insight 360
 
-## Demonstrating Power BI Skills Through Diverse Domain Applications
-Explore my **interactive Power BI Reports & Dashboards**:
+**Unlock** data-driven decisions: Explore the **"Business Insight 360" interactive Power BI Reports & Dashboards**.
 
 **[Business Insight 360](Business_Insight_360/README.md)**  
 
