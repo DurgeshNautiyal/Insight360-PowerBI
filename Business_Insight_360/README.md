@@ -16,7 +16,7 @@ This report serves as a unified solution for stakeholders across sales, marketin
 2. **User-Centric Report Design** - Ensuring usability and clarity for different stakeholders.
 3. **Drillable Insights** - Enabling deep dives into key business metrics.
 
-### Key Learnings 📚
+### Key Learnings 
 - Power Query (Basic & Advanced Operations)
 - Complex DAX formulas for calculations
 - Data modeling with multiple relationships
