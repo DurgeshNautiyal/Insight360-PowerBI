@@ -2,7 +2,7 @@
 
 **Unlock** data-driven decisions: Explore the **"Business Insight 360" interactive Power BI Reports & Dashboards**.
 
-**[Business Insight 360](Business_Insight_360/README.md)**  
+**[Click here](Business_Insight_360/README.md)**  
 
 
 ## 🔗 Live Reports (Power BI Service)
