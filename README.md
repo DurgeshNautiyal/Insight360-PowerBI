@@ -10,5 +10,5 @@
 
 
 ## Contact Me
-📩 durgeshnautiyal11@gmail.com     
-🔗 [LinkedIn](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
+durgeshnautiyal11@gmail.com     
+[LinkedIn](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
